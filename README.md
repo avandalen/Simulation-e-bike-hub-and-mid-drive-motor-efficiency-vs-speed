@@ -1,2 +1,2 @@
-# Simulation-e-bike-hub-and-mid-drive-motor-efficiency-vs-speed
-Here we can simulate an e-bike with a hub motor or mid-drive motor in all situations. Also, a mid-drive motor can be simulated at a constant cadence / bottom bracket speed.
+# E-bike motors 250W compared by simulation: mid-drive vs hub vs 2-speed hub
+Here is described how to simulate e-bike motors up to 250W at different speeds and road inclinations: hub motors, 2-speed hub motors and mid-mounted motors. The mid-drive motor can be simulated at a constant cadence.
